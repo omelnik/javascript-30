@@ -13,6 +13,7 @@ I decided to take [30 Day Vanilla JS coding Challenge](https://javascript30.com/
 | Day 1 | JavaScript Drum Kit | [Click Here](/01%20-%20JavaScript%20Drum%20Kit) |
 | Day 2 |  JS and CSS Clock   | [Click Here](/02%20-%20JS%20and%20CSS%20Clock)  |
 | Day 3 |    CSS Varialbes    |     [Click Here](/03%20-%20CSS%20Variables)     |
+| Day 4 | Array Cardio Day 1  | [Click Here](/04%20-%Array%20Cardio%20Day%201)  |
 
 ## Useful Links
 

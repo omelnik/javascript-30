@@ -1,4 +1,4 @@
-## Day 3: Flex Panel Gallery
+## Day 5: Flex Panel Gallery
 
 ![day5-flex-panel-gallery](../images/day5-flex-panel-gallery.gif)
 

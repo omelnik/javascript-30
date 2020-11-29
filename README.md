@@ -11,7 +11,8 @@ I decided to take [30 Day Vanilla JS coding Challenge](https://javascript30.com/
 |       |        Name         |                  Code :rocket:                  |
 | :---: | :-----------------: | :---------------------------------------------: |
 | Day 1 | JavaScript Drum Kit | [Click Here](/01%20-%20JavaScript%20Drum%20Kit) |
-| Day 2 |  JS and CSS Clock   |  [Click Here](02%20-%20JS%20and%20CSS%20Clock)  |
+| Day 2 |  JS and CSS Clock   | [Click Here](/02%20-%20JS%20and%20CSS%20Clock)  |
+| Day 3 |    CSS Varialbes    |     [Click Here](/03%20-%20CSS%20Variables)     |
 
 ## Useful Links
 
